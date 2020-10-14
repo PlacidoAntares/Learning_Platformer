@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: 6db78ddb9dc7fed45b2d7fa1894a5196
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neo Geo NGCD - Metal Slug 3 - Big Eyes_0
+    21300002: Neo Geo NGCD - Metal Slug 3 - Big Eyes_1
+    21300004: Neo Geo NGCD - Metal Slug 3 - Big Eyes_2
+    21300006: Neo Geo NGCD - Metal Slug 3 - Big Eyes_3
+    21300008: Neo Geo NGCD - Metal Slug 3 - Big Eyes_4
+    21300010: Neo Geo NGCD - Metal Slug 3 - Big Eyes_5
+    21300012: Neo Geo NGCD - Metal Slug 3 - Big Eyes_6
+    21300014: Neo Geo NGCD - Metal Slug 3 - Big Eyes_7
+    21300016: Neo Geo NGCD - Metal Slug 3 - Big Eyes_8
+    21300018: Neo Geo NGCD - Metal Slug 3 - Big Eyes_9
+    21300020: Neo Geo NGCD - Metal Slug 3 - Big Eyes_10
+    21300022: Neo Geo NGCD - Metal Slug 3 - Big Eyes_11
+    21300024: Neo Geo NGCD - Metal Slug 3 - Big Eyes_12
+    21300026: Neo Geo NGCD - Metal Slug 3 - Big Eyes_13
+    21300028: Neo Geo NGCD - Metal Slug 3 - Big Eyes_14
+    21300030: Neo Geo NGCD - Metal Slug 3 - Big Eyes_15
+    21300032: Neo Geo NGCD - Metal Slug 3 - Big Eyes_16
+    21300034: Neo Geo NGCD - Metal Slug 3 - Big Eyes_17
+    21300036: Neo Geo NGCD - Metal Slug 3 - Big Eyes_18
+    21300038: Neo Geo NGCD - Metal Slug 3 - Big Eyes_19
+    21300040: Neo Geo NGCD - Metal Slug 3 - Big Eyes_20
+    21300042: Neo Geo NGCD - Metal Slug 3 - Big Eyes_21
+    21300044: Neo Geo NGCD - Metal Slug 3 - Big Eyes_22
+    21300046: Neo Geo NGCD - Metal Slug 3 - Big Eyes_23
+    21300048: Neo Geo NGCD - Metal Slug 3 - Big Eyes_24
+    21300050: Neo Geo NGCD - Metal Slug 3 - Big Eyes_25
+    21300052: Neo Geo NGCD - Metal Slug 3 - Big Eyes_26
+    21300054: Neo Geo NGCD - Metal Slug 3 - Big Eyes_27
+    21300056: Neo Geo NGCD - Metal Slug 3 - Big Eyes_28
+    21300058: Neo Geo NGCD - Metal Slug 3 - Big Eyes_29
+    21300060: Neo Geo NGCD - Metal Slug 3 - Big Eyes_30
+    21300062: Neo Geo NGCD - Metal Slug 3 - Big Eyes_31
+    21300064: Neo Geo NGCD - Metal Slug 3 - Big Eyes_32
+    21300066: Neo Geo NGCD - Metal Slug 3 - Big Eyes_33
+    21300068: Neo Geo NGCD - Metal Slug 3 - Big Eyes_34
+    21300070: Neo Geo NGCD - Metal Slug 3 - Big Eyes_35
+    21300072: Neo Geo NGCD - Metal Slug 3 - Big Eyes_36
+    21300074: Neo Geo NGCD - Metal Slug 3 - Big Eyes_37
+    21300076: Neo Geo NGCD - Metal Slug 3 - Big Eyes_38
+    21300078: Neo Geo NGCD - Metal Slug 3 - Big Eyes_39
+    21300080: Neo Geo NGCD - Metal Slug 3 - Big Eyes_40
+    21300082: Neo Geo NGCD - Metal Slug 3 - Big Eyes_41
+    21300084: Neo Geo NGCD - Metal Slug 3 - Big Eyes_42
+    21300086: Neo Geo NGCD - Metal Slug 3 - Big Eyes_43
+    21300088: Neo Geo NGCD - Metal Slug 3 - Big Eyes_44
+    21300090: Neo Geo NGCD - Metal Slug 3 - Big Eyes_45
+    21300092: Neo Geo NGCD - Metal Slug 3 - Big Eyes_46
+    21300094: Neo Geo NGCD - Metal Slug 3 - Big Eyes_47
+    21300096: Neo Geo NGCD - Metal Slug 3 - Big Eyes_48
+    21300098: Neo Geo NGCD - Metal Slug 3 - Big Eyes_49
+    21300100: Neo Geo NGCD - Metal Slug 3 - Big Eyes_50
+    21300102: Neo Geo NGCD - Metal Slug 3 - Big Eyes_51
+    21300104: Neo Geo NGCD - Metal Slug 3 - Big Eyes_52
+    21300106: Neo Geo NGCD - Metal Slug 3 - Big Eyes_53
+    21300108: Neo Geo NGCD - Metal Slug 3 - Big Eyes_54
+    21300110: Neo Geo NGCD - Metal Slug 3 - Big Eyes_55
+    21300112: Neo Geo NGCD - Metal Slug 3 - Big Eyes_56
+    21300114: Neo Geo NGCD - Metal Slug 3 - Big Eyes_57
+    21300116: Neo Geo NGCD - Metal Slug 3 - Big Eyes_58
+    21300118: Neo Geo NGCD - Metal Slug 3 - Big Eyes_59
+    21300120: Neo Geo NGCD - Metal Slug 3 - Big Eyes_60
+    21300122: Neo Geo NGCD - Metal Slug 3 - Big Eyes_61
+    21300124: Neo Geo NGCD - Metal Slug 3 - Big Eyes_62
+    21300126: Neo Geo NGCD - Metal Slug 3 - Big Eyes_63
+    21300128: Neo Geo NGCD - Metal Slug 3 - Big Eyes_64
+    21300130: Neo Geo NGCD - Metal Slug 3 - Big Eyes_65
+    21300132: Neo Geo NGCD - Metal Slug 3 - Big Eyes_66
+    21300134: Neo Geo NGCD - Metal Slug 3 - Big Eyes_67
+    21300136: Neo Geo NGCD - Metal Slug 3 - Big Eyes_68
+    21300138: Neo Geo NGCD - Metal Slug 3 - Big Eyes_69
+    21300140: Neo Geo NGCD - Metal Slug 3 - Big Eyes_70
+    21300142: Neo Geo NGCD - Metal Slug 3 - Big Eyes_71
+    21300144: Neo Geo NGCD - Metal Slug 3 - Big Eyes_72
+    21300146: Neo Geo NGCD - Metal Slug 3 - Big Eyes_73
+    21300148: Neo Geo NGCD - Metal Slug 3 - Big Eyes_74
+    21300150: Neo Geo NGCD - Metal Slug 3 - Big Eyes_75
+    21300152: Neo Geo NGCD - Metal Slug 3 - Big Eyes_76
+    21300154: Neo Geo NGCD - Metal Slug 3 - Big Eyes_77
+    21300156: Neo Geo NGCD - Metal Slug 3 - Big Eyes_78
+    21300158: Neo Geo NGCD - Metal Slug 3 - Big Eyes_79
+    21300160: Neo Geo NGCD - Metal Slug 3 - Big Eyes_80
+    21300162: Neo Geo NGCD - Metal Slug 3 - Big Eyes_81
+    21300164: Neo Geo NGCD - Metal Slug 3 - Big Eyes_82
+    21300166: Neo Geo NGCD - Metal Slug 3 - Big Eyes_83
+    21300168: Neo Geo NGCD - Metal Slug 3 - Big Eyes_84
+    21300170: Neo Geo NGCD - Metal Slug 3 - Big Eyes_85
+    21300172: Neo Geo NGCD - Metal Slug 3 - Big Eyes_86
+    21300174: Neo Geo NGCD - Metal Slug 3 - Big Eyes_87
+    21300176: Neo Geo NGCD - Metal Slug 3 - Big Eyes_88
+    21300178: Neo Geo NGCD - Metal Slug 3 - Big Eyes_89
+    21300180: Neo Geo NGCD - Metal Slug 3 - Big Eyes_90
+    21300182: Neo Geo NGCD - Metal Slug 3 - Big Eyes_91
+    21300184: Neo Geo NGCD - Metal Slug 3 - Big Eyes_92
+    21300186: Neo Geo NGCD - Metal Slug 3 - Big Eyes_93
+    21300188: Neo Geo NGCD - Metal Slug 3 - Big Eyes_94
+    21300190: Neo Geo NGCD - Metal Slug 3 - Big Eyes_95
+    21300192: Neo Geo NGCD - Metal Slug 3 - Big Eyes_96
+    21300194: Neo Geo NGCD - Metal Slug 3 - Big Eyes_97
+    21300196: Neo Geo NGCD - Metal Slug 3 - Big Eyes_98
+    21300198: Neo Geo NGCD - Metal Slug 3 - Big Eyes_99
+    21300200: Neo Geo NGCD - Metal Slug 3 - Big Eyes_100
+    21300202: Neo Geo NGCD - Metal Slug 3 - Big Eyes_101
+    21300204: Neo Geo NGCD - Metal Slug 3 - Big Eyes_102
+    21300206: Neo Geo NGCD - Metal Slug 3 - Big Eyes_103
+    21300208: Neo Geo NGCD - Metal Slug 3 - Big Eyes_104
+    21300210: Neo Geo NGCD - Metal Slug 3 - Big Eyes_105
+    21300212: Neo Geo NGCD - Metal Slug 3 - Big Eyes_106
+    21300214: Neo Geo NGCD - Metal Slug 3 - Big Eyes_107
+    21300216: Neo Geo NGCD - Metal Slug 3 - Big Eyes_108
+    21300218: Neo Geo NGCD - Metal Slug 3 - Big Eyes_109
+    21300220: Neo Geo NGCD - Metal Slug 3 - Big Eyes_110
+    21300222: Neo Geo NGCD - Metal Slug 3 - Big Eyes_111
+    21300224: Neo Geo NGCD - Metal Slug 3 - Big Eyes_112
+    21300226: Neo Geo NGCD - Metal Slug 3 - Big Eyes_113
+    21300228: Neo Geo NGCD - Metal Slug 3 - Big Eyes_114
+    21300230: Neo Geo NGCD - Metal Slug 3 - Big Eyes_115
+    21300232: Neo Geo NGCD - Metal Slug 3 - Big Eyes_116
+    21300234: Neo Geo NGCD - Metal Slug 3 - Big Eyes_117
+    21300236: Neo Geo NGCD - Metal Slug 3 - Big Eyes_118
+    21300238: Neo Geo NGCD - Metal Slug 3 - Big Eyes_119
+    21300240: Neo Geo NGCD - Metal Slug 3 - Big Eyes_120
+    21300242: Neo Geo NGCD - Metal Slug 3 - Big Eyes_121
+    21300244: Neo Geo NGCD - Metal Slug 3 - Big Eyes_122
+    21300246: Neo Geo NGCD - Metal Slug 3 - Big Eyes_123
+    21300248: Neo Geo NGCD - Metal Slug 3 - Big Eyes_124
+    21300250: Neo Geo NGCD - Metal Slug 3 - Big Eyes_125
+    21300252: Neo Geo NGCD - Metal Slug 3 - Big Eyes_126
+    21300254: Neo Geo NGCD - Metal Slug 3 - Big Eyes_127
+    21300256: Neo Geo NGCD - Metal Slug 3 - Big Eyes_128
+    21300258: Neo Geo NGCD - Metal Slug 3 - Big Eyes_129
+    21300260: Neo Geo NGCD - Metal Slug 3 - Big Eyes_130
+    21300262: Neo Geo NGCD - Metal Slug 3 - Big Eyes_131
+    21300264: Neo Geo NGCD - Metal Slug 3 - Big Eyes_132
+    21300266: Neo Geo NGCD - Metal Slug 3 - Big Eyes_133
+    21300268: Neo Geo NGCD - Metal Slug 3 - Big Eyes_134
+    21300270: Neo Geo NGCD - Metal Slug 3 - Big Eyes_135
+    21300272: Neo Geo NGCD - Metal Slug 3 - Big Eyes_136
+    21300274: Neo Geo NGCD - Metal Slug 3 - Big Eyes_137
+    21300276: Neo Geo NGCD - Metal Slug 3 - Big Eyes_138
+    21300278: Neo Geo NGCD - Metal Slug 3 - Big Eyes_139
+    21300280: Neo Geo NGCD - Metal Slug 3 - Big Eyes_140
+    21300282: Neo Geo NGCD - Metal Slug 3 - Big Eyes_141
+    21300284: Neo Geo NGCD - Metal Slug 3 - Big Eyes_142
+    21300286: Neo Geo NGCD - Metal Slug 3 - Big Eyes_143
+    21300288: Neo Geo NGCD - Metal Slug 3 - Big Eyes_144
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 177
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 177
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 177
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 177
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 142
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 142
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 142
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 142
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_15
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 142
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_19
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 142
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 109
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 109
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 109
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 109
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 109
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 109
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 109
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_30
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 121
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 121
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 121
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 121
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 121
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 119
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 121
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_37
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 121
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 121
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_39
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 121
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_40
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 121
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 76
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 76
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 76
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 76
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 76
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 76
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 37
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 83
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_52
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 38
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_54
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 41
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 44
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 42
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 59
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_60
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 59
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_61
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 54
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 55
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_63
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 54
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_64
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 49
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_69
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 47
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_70
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_71
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 42
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_72
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 37
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_73
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 39
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_74
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 39
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_75
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 39
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_76
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_77
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_78
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_79
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_80
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_83
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_84
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_85
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_86
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_87
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_89
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_90
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_91
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_92
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 21
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_93
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_94
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_95
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_96
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_97
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 21
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 21
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_100
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 21
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_101
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 20
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_102
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_103
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_104
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_105
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 21
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_106
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_107
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_108
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 21
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_109
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 19
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_110
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_111
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_112
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 21
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_114
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_115
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 7
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_117
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_118
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_119
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_120
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 9
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_121
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 9
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_123
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_124
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_125
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 7
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_126
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 9
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_127
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_128
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 9
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_129
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_130
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 9
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_131
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_132
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_133
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_134
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_135
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_136
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_137
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_139
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_141
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_142
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_143
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Big Eyes_144
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 7
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
