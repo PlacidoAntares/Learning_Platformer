@@ -57,8 +57,8 @@
      <Compile Include="Assets\MouseAimDemo\Scripts\MouseListener.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
      <Compile Include="Assets\Scripts\DeleteFx.cs" />
-     <Compile Include="Assets\Scripts\Enemy\Enemy_Turret.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyMove.cs" />
+     <Compile Include="Assets\Scripts\Enemy\EnemyShoot.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemySpawn.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyStats.cs" />
      <Compile Include="Assets\Scripts\Player\CameraControl.cs" />

@@ -39,7 +39,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4060293971785092}
-  - component: {fileID: 114696929100594912}
+  - component: {fileID: 114872385100439360}
   m_Layer: 8
   m_Name: turret
   m_TagString: Untagged
@@ -133,7 +133,7 @@ MonoBehaviour:
   deathFx: {fileID: 1507529865862826, guid: 5b9a0f0cf35129448a0c33a5037d0bf2, type: 2}
   E_spawn: {fileID: 0}
   E_spawnScript: {fileID: 0}
---- !u!114 &114696929100594912
+--- !u!114 &114872385100439360
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -141,23 +141,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1775183154851612}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5d20f7cdf79861e46823fc296ca38ed7, type: 3}
+  m_Script: {fileID: 11500000, guid: e28a9d1b9d1d5224c93849ea82d1db8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
-  range: 5
-  turnSpeed: 1
-  fireRate: 5
-  bulletPrefab: {fileID: 1363512552829558, guid: 953013daa136757498a526d9411a0179,
-    type: 2}
-  useLaser: 0
-  slowPct: 0.5
-  damageOverTime: 30
-  lineRenderer: {fileID: 0}
-  impactEffect: {fileID: 0}
-  playerTag: Player
-  partToRotate: {fileID: 4060293971785092}
-  firePoint: {fileID: 4060293971785092}
+  PlayerTarget: {fileID: 0}
+  PlayerTransform: {fileID: 0}
+  BulletPrefab: {fileID: 0}
 --- !u!114 &114893450857817318
 MonoBehaviour:
   m_ObjectHideFlags: 1
