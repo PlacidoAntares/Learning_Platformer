@@ -226,20 +226,6 @@ GameObject:
   m_PrefabParentObject: {fileID: 1571384264937494, guid: 5844e4377cadb7e4dacf6ab56d89b522,
     type: 2}
   m_PrefabInternal: {fileID: 1465062799}
---- !u!114 &410331933
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 410331932}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c1a83548c0247b64d9d0a09fa6cf4a21, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  P_Health: 0
-  P_Armor: 0
-  IsAlive: 0
 --- !u!114 &410331935 stripped
 MonoBehaviour:
   m_PrefabParentObject: {fileID: 114336220514320356, guid: 5844e4377cadb7e4dacf6ab56d89b522,
@@ -336,11 +322,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4925849421358448, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0.86978406
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4925849421358448, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.1933522
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4925849421358448, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
       propertyPath: m_LocalPosition.z
@@ -369,6 +355,22 @@ Prefab:
     - target: {fileID: 1571063515339234, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1775183154851612, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_UsedByEffector
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: m_Radius
+      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
@@ -514,6 +516,50 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1365384966
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1365384967}
+  - component: {fileID: 1365384968}
+  m_Layer: 8
+  m_Name: TriggerCollider
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1365384967
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1365384966}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 410331938}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &1365384968
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1365384966}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.5
 --- !u!1001 &1465062799
 Prefab:
   m_ObjectHideFlags: 0
@@ -636,6 +682,10 @@ Prefab:
         type: 2}
       propertyPath: m_WhatIsGround.m_Bits
       value: 4294966527
+      objectReference: {fileID: 0}
+    - target: {fileID: 1571384264937494, guid: 5844e4377cadb7e4dacf6ab56d89b522, type: 2}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114367362146493634, guid: 5844e4377cadb7e4dacf6ab56d89b522, type: 2}
@@ -789,7 +839,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_mouseListener: {fileID: 1644831882}
   m_armToRotate: {fileID: 1644831880}
-  m_maxAngle: 70
+  m_maxAngle: 80
   m_minAngle: -10
   isFacingRight: 1
   m_isAimingDown: 0
