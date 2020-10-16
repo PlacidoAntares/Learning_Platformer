@@ -10,6 +10,7 @@ public class EnemyStats : MonoBehaviour {
 	public GameObject deathFx;
 	public GameObject E_spawn;
 	public EnemySpawn E_spawnScript;
+	public GameObject E_Obj;
 	// Use this for initialization
 	void Start () {
 		E_spawn = GameObject.Find ("SpawnPoint01");
@@ -24,7 +25,7 @@ public class EnemyStats : MonoBehaviour {
 			E_spawnScript = null;
 			E_spawn = null;
 			Instantiate (deathFx, this.gameObject.transform.position, this.gameObject.transform.rotation);
-			DestroyObject (this.gameObject);
+			DestroyObject (E_Obj);
 		}
 	}
 }

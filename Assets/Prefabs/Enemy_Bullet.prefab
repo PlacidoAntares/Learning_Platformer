@@ -22,7 +22,8 @@ GameObject:
   - component: {fileID: 58011200609997642}
   - component: {fileID: 212204728631983164}
   - component: {fileID: 50370144814608600}
-  m_Layer: 0
+  - component: {fileID: 114545263682625930}
+  m_Layer: 9
   m_Name: Enemy_Bullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71,12 +72,28 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.2
+--- !u!114 &114545263682625930
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1363512552829558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d89cc74165b861d4bac377e6932d48be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EB_speed: 1
+  rb: {fileID: 0}
+  EB_BulletDur: 5
+  EB_BulletDmg: 10
+  P_Stats: {fileID: 0}
 --- !u!212 &212204728631983164
 SpriteRenderer:
   m_ObjectHideFlags: 1

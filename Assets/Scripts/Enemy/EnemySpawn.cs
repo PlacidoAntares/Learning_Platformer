@@ -17,7 +17,7 @@ public class EnemySpawn : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		if (EnemyCount <= MaxEnemyCount) {
+		if (EnemyCount < MaxEnemyCount) {
 			if (SpawnTimer <= 0f) {
 				Spawn ();
 				SpawnTimer = 1f / SpawnRate;

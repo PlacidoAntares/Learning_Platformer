@@ -221,11 +221,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 3.08}
   m_EdgeRadius: 0
---- !u!1 &410331932 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1571384264937494, guid: 5844e4377cadb7e4dacf6ab56d89b522,
-    type: 2}
-  m_PrefabInternal: {fileID: 1465062799}
 --- !u!114 &410331935 stripped
 MonoBehaviour:
   m_PrefabParentObject: {fileID: 114336220514320356, guid: 5844e4377cadb7e4dacf6ab56d89b522,
@@ -237,26 +232,6 @@ Transform:
   m_PrefabParentObject: {fileID: 4068989417939508, guid: 5844e4377cadb7e4dacf6ab56d89b522,
     type: 2}
   m_PrefabInternal: {fileID: 1465062799}
---- !u!114 &410331939
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 410331932}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 553fc78f12eb65e4e8bce0456d6d5d4f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  firePoint: {fileID: 423232140}
-  bulletPrefab: {fileID: 1318549618349806, guid: efc0c196ecd9710488e794f3b3f76b73,
-    type: 2}
-  bulletDir: 0
-  bullet: {fileID: 0}
-  fireRate: 8
-  spawnedBullet: {fileID: 0}
-  playerMove: {fileID: 410331935}
-  GunAnim: {fileID: 2000811855}
 --- !u!1 &423232139
 GameObject:
   m_ObjectHideFlags: 0
@@ -322,15 +297,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4925849421358448, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.901
       objectReference: {fileID: 0}
     - target: {fileID: 4925849421358448, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.531
       objectReference: {fileID: 0}
     - target: {fileID: 4925849421358448, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -11.800049
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4925849421358448, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
       propertyPath: m_LocalRotation.x
@@ -355,22 +330,6 @@ Prefab:
     - target: {fileID: 1571063515339234, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
       propertyPath: m_IsActive
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1775183154851612, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 0}
-      propertyPath: m_UsedByEffector
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 0}
-      propertyPath: m_IsTrigger
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 0}
-      propertyPath: m_Radius
-      value: 1.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6fe678f83c4404442bee132d369dbf70, type: 2}
@@ -524,6 +483,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1365384967}
+  - component: {fileID: 1365384969}
   - component: {fileID: 1365384968}
   m_Layer: 8
   m_Name: TriggerCollider
@@ -545,8 +505,8 @@ Transform:
   m_Father: {fileID: 410331938}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!58 &1365384968
-CircleCollider2D:
+--- !u!61 &1365384968
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -558,8 +518,38 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Size: {x: 0.4, y: 0.4}
+  m_EdgeRadius: 0
+--- !u!114 &1365384969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1365384966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553fc78f12eb65e4e8bce0456d6d5d4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  firePoint: {fileID: 423232140}
+  bulletPrefab: {fileID: 1318549618349806, guid: efc0c196ecd9710488e794f3b3f76b73,
+    type: 2}
+  bulletDir: 0
+  bullet: {fileID: 0}
+  fireRate: 8
+  spawnedBullet: {fileID: 0}
+  playerMove: {fileID: 410331935}
+  GunAnim: {fileID: 2000811855}
 --- !u!1001 &1465062799
 Prefab:
   m_ObjectHideFlags: 0
@@ -573,7 +563,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4068989417939508, guid: 5844e4377cadb7e4dacf6ab56d89b522, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -0.72
+      value: -0.451
       objectReference: {fileID: 0}
     - target: {fileID: 4068989417939508, guid: 5844e4377cadb7e4dacf6ab56d89b522, type: 2}
       propertyPath: m_LocalPosition.z
@@ -685,7 +675,12 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1571384264937494, guid: 5844e4377cadb7e4dacf6ab56d89b522, type: 2}
       propertyPath: m_TagString
-      value: Player
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 61207915032995980, guid: 5844e4377cadb7e4dacf6ab56d89b522,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114367362146493634, guid: 5844e4377cadb7e4dacf6ab56d89b522, type: 2}
@@ -788,34 +783,6 @@ MonoBehaviour:
   Camera: {fileID: 1494476330}
   Mech: {fileID: 410331938}
   PlayerMove: {fileID: 410331935}
---- !u!1 &1517029003
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 1517029004}
-  m_Layer: 0
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1517029004
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1517029003}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.79043704, y: 0.10365712, z: -11.594727}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1644831879 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1177407714881748, guid: 5844e4377cadb7e4dacf6ab56d89b522,

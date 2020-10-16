@@ -9,7 +9,10 @@ public class EnemyMove : MonoBehaviour {
 	private int wavepointIndex = 0;
 	// Use this for initialization
 	void Start () {
-		Estats = gameObject.GetComponent<EnemyStats> ();
+
+
+		Estats = GetComponentInChildren<EnemyStats> ();
+		Estats.E_Obj = this.gameObject;
 		target = Waypoints.waypoints[0];
 	}
 	

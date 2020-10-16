@@ -240,7 +240,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 6200000, guid: dfe6108a13d63af49ba17db413202a5d, type: 2}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.05, y: 0}
@@ -353,8 +353,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   walkSpeed: 2.5
   controller: {fileID: 114927850976369170}
-  MechGunControl: {fileID: 114367362146493634}
+  ArmControl: {fileID: 0}
+  IsFacingRight: 0
   animator: {fileID: 95940524067499738}
+  player_transform: {fileID: 0}
 --- !u!114 &114367362146493634
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -500,5 +502,5 @@ SpriteRenderer:
   m_Size: {x: 0.41, y: 0.2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
