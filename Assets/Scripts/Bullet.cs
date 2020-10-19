@@ -15,6 +15,7 @@ public class Bullet : MonoBehaviour {
 	private SpriteRenderer enemySprite;
 	// Use this for initialization
 	void Start () {
+		rb = this.gameObject.GetComponent<Rigidbody2D> ();
 		rb.velocity = (transform.right * speed) * vectorVal;
 		Destroy (this.gameObject, BulletDur);
 	}
@@ -25,10 +26,10 @@ public class Bullet : MonoBehaviour {
 	}
 
 	//If your GameObject starts to collide with another GameObject with a Collider
-	void OnCollisionEnter2D(Collision2D coll) {
+	void OnTriggerEnter2D(Collider2D coll) {
 		if (coll.gameObject.tag == "Enemy") {
 			Debug.Log ("Enemy hit");
-			enemySprite = coll.gameObject.GetComponent<SpriteRenderer> ();
+			//enemySprite = coll.gameObject.GetComponent<SpriteRenderer> ();
 			//enemySprite.color = Color.red;
 			enemyStats = coll.gameObject.GetComponent<EnemyStats> ();
 			enemyStats.Health -= bulletDmg;
