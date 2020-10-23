@@ -10,9 +10,11 @@ public class PlayerStats : MonoBehaviour {
 	public GameObject ExplosionSFX;
 	public GameObject PlayerUnit;
 	public PowerUp P_UP;
+	public HealthBar HP_Bar;
 	// Use this for initialization
 	void Start () {
 		P_Health = P_MaxHealth;
+		HP_Bar.SetMaxHealth (P_MaxHealth);
 	}
 	
 	// Update is called once per frame
@@ -32,5 +34,6 @@ public class PlayerStats : MonoBehaviour {
 	public void TakeDamage(int Damage)
 	{
 		P_Health -= Damage;
+		HP_Bar.SetHealth (P_Health);
 	}
 }
