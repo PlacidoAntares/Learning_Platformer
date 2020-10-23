@@ -21,4 +21,16 @@ public class EnemyBullet : MonoBehaviour {
 	void Update () {
 		
 	}
+<<<<<<< Updated upstream
+=======
+
+	void OnTriggerEnter2D(Collider2D coll) {
+		if (coll.gameObject.tag == "Player") {
+			Debug.Log ("Player hit");
+			P_Stats = coll.gameObject.GetComponentInChildren<PlayerStats>();
+			P_Stats.TakeDamage (EB_BulletDmg);
+			DestroyObject (this.gameObject);
+		}
+	}
+>>>>>>> Stashed changes
 }
