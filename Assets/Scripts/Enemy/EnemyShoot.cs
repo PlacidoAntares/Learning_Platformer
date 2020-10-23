@@ -24,18 +24,28 @@ public class EnemyShoot : MonoBehaviour {
 		ThisTurret = this.gameObject;
 		turretTransform = ThisTurret.gameObject.GetComponent<Transform> ();
 		PlayerTarget = GameObject.FindGameObjectWithTag("Player");
-		PlayerTransform = PlayerTarget.GetComponent<Transform> ();
+		if (PlayerTarget != null) 
+		{
+			PlayerTransform = PlayerTarget.GetComponent<Transform> ();
+		}
 
 	}
 
 	// Update is called once per frame
 	void Update () {
-		
-		if (fireCountdown <= 0f) {
-			Shoot_E ();
-			fireCountdown = 1f / fireRate;
+		if (PlayerTarget != null) {
+			if (fireCountdown <= 0f) {
+				Shoot_E ();
+				fireCountdown = 1f / fireRate;
+			}
+			fireCountdown -= Time.deltaTime;
+		} 
+
+		else if (PlayerTarget == null) 
+		{
+			Destroy (this.gameObject);	
 		}
-		fireCountdown -= Time.deltaTime;
+
 	}
 
 

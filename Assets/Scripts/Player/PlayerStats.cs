@@ -5,38 +5,32 @@ using UnityEngine;
 public class PlayerStats : MonoBehaviour {
 
 	public int P_Health;
-<<<<<<< Updated upstream
-=======
 	public int P_MaxHealth;
->>>>>>> Stashed changes
 	public int P_Armor;
-	public bool IsAlive;
-
+	public GameObject ExplosionSFX;
+	public GameObject PlayerUnit;
+	public PowerUp P_UP;
 	// Use this for initialization
 	void Start () {
-		
+		P_Health = P_MaxHealth;
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if (P_Health <= 0) 
+		{
+			Dead ();
+		}
 	}
 
-	public void TakeDamage(float amount)
+	void Dead()
 	{
-		
-    }
-
-	public void Slow(float pct)
-	{
-		
+		Instantiate (ExplosionSFX, PlayerUnit.gameObject.transform.position, PlayerUnit.gameObject.transform.rotation);
+		DestroyObject (PlayerUnit);
 	}
 
-<<<<<<< Updated upstream
-=======
 	public void TakeDamage(int Damage)
 	{
 		P_Health -= Damage;
 	}
->>>>>>> Stashed changes
 }

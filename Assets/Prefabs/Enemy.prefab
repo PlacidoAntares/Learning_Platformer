@@ -187,7 +187,7 @@ MonoBehaviour:
   ThisTurret: {fileID: 0}
   BulletPrefab: {fileID: 1363512552829558, guid: 953013daa136757498a526d9411a0179,
     type: 2}
-  fireRate: 1
+  fireRate: 0.5
   fireCountdown: 0
   spawnedBullet: {fileID: 0}
 --- !u!114 &114893450857817318
@@ -219,6 +219,13 @@ MonoBehaviour:
   deathFx: {fileID: 1507529865862826, guid: 5b9a0f0cf35129448a0c33a5037d0bf2, type: 2}
   E_spawn: {fileID: 0}
   E_spawnScript: {fileID: 0}
+  E_Obj: {fileID: 0}
+  LootTable:
+  - {fileID: 1239808808405844, guid: 63536518931812d499d3f445e85bcfae, type: 2}
+  LootID: 0
+  LootChance:
+  - 50
+  LootRoll: 0
 --- !u!212 &212595748259020812
 SpriteRenderer:
   m_ObjectHideFlags: 1

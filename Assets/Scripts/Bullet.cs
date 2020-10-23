@@ -36,11 +36,12 @@ public class Bullet : MonoBehaviour {
 			enemyStats = null;
 			DestroyObject (this.gameObject);
 		}
-		else if (coll.gameObject.tag == "Boundry") {
-			DestroyObject (this.gameObject);
-		}
-		else if (coll.gameObject.tag == "Player") {
-			Debug.Log ("Player hit");
+	}
+	void OnCollisionEnter2D(Collision2D coll)
+	{
+		if (coll.gameObject.tag == "Boundry") 
+		{
+			Debug.Log ("Boundry hit");
 			DestroyObject (this.gameObject);
 		}
 	}

@@ -27,8 +27,14 @@ public class PowerUp : MonoBehaviour {
 			switch (PowerUpID) 
 				{
 			case 0:
+				if (P_Stats.P_Health < P_Stats.P_MaxHealth) {
 					P_Stats.P_Health += 500;
 					Debug.Log ("Healed 500 HP");
+				}
+				else if (P_Stats.P_Health >= P_Stats.P_MaxHealth) 
+				{
+					Debug.Log ("Full HP");
+				}
 				break;
 				}
 			Destroy (PowerUpParent);

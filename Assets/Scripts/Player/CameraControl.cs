@@ -15,8 +15,10 @@ public class CameraControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		if (Mech != null) {
+			CamMove ();
+		}
 
-		CamMove ();
 	}
 
 	void CamMove()
