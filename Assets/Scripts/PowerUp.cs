@@ -5,6 +5,7 @@ using UnityEngine;
 public class PowerUp : MonoBehaviour {
 
 	public int PowerUpID;
+	public int[] PowerUPVal;
 	public float  PowerUpDur;
 	public GameObject PowerUpParent;
 	public GameObject Player;
@@ -30,6 +31,11 @@ public class PowerUp : MonoBehaviour {
 				if (P_Stats.P_Health < P_Stats.P_MaxHealth) {
 					P_Stats.P_Health += 500;
 					Debug.Log ("Healed 500 HP");
+					if (P_Stats.P_Health >= P_Stats.P_MaxHealth) 
+					{
+						P_Stats.P_Health = P_Stats.P_MaxHealth;
+						PowerUPVal[PowerUpID]
+					}
 				}
 				else if (P_Stats.P_Health >= P_Stats.P_MaxHealth) 
 				{
