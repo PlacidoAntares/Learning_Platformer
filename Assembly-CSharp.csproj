@@ -55,22 +55,23 @@
      <Compile Include="Assets\MouseAimDemo\Scripts\ArmController.cs" />
      <Compile Include="Assets\MouseAimDemo\Scripts\BodyController.cs" />
      <Compile Include="Assets\MouseAimDemo\Scripts\MouseListener.cs" />
-     <Compile Include="Assets\Scripts\Bullet.cs" />
-     <Compile Include="Assets\Scripts\DeleteFx.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyBullet.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyMove.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyShoot.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemySpawn.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyStats.cs" />
-     <Compile Include="Assets\Scripts\HealthBar.cs" />
+     <Compile Include="Assets\Scripts\GameMaster\DeleteFx.cs" />
+     <Compile Include="Assets\Scripts\GameMaster\DisplayScore.cs" />
+     <Compile Include="Assets\Scripts\GameMaster\HealthBar.cs" />
+     <Compile Include="Assets\Scripts\GameMaster\PowerUp.cs" />
+     <Compile Include="Assets\Scripts\GameMaster\Waypoints.cs" />
+     <Compile Include="Assets\Scripts\Player\Bullet.cs" />
      <Compile Include="Assets\Scripts\Player\CameraControl.cs" />
      <Compile Include="Assets\Scripts\Player\CharacterController2D.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerStats.cs" />
      <Compile Include="Assets\Scripts\Player\SpriteController.cs" />
      <Compile Include="Assets\Scripts\Player\Weapon.cs" />
-     <Compile Include="Assets\Scripts\PowerUp.cs" />
-     <Compile Include="Assets\Scripts\Waypoints.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
