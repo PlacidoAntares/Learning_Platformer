@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour {
 
-	public bool EnemyBullet;
 	public float speed;
 	public Rigidbody2D rb;
 	public PlayerMovement playerMove;

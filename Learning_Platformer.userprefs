@@ -1,19 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MouseAimDemo\Scripts\ArmController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\PlayerStats.cs">
     <Files>
-      <File FileName="Assets\Scripts\Player\PlayerStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerStats.cs" Line="9" Column="21" />
       <File FileName="Assets\Scripts\Enemy\EnemyShoot.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Player\Weapon.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Bullet.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Enemy\EnemyStats.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Enemy\EnemyBullet.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Enemy\EnemyMove.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Enemy\EnemySpawn.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Player\CameraControl.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\PowerUp.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\HealthBar.cs" Line="1" Column="1" />
-      <File FileName="Assets\MouseAimDemo\Scripts\ArmController.cs" Line="43" Column="1" />
+      <File FileName="Assets\Scripts\Player\Weapon.cs" Line="12" Column="35" />
+      <File FileName="Assets\Scripts\Enemy\EnemyStats.cs" Line="28" Column="42" />
+      <File FileName="Assets\Scripts\GameMaster\PowerUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\Bullet.cs" Line="7" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

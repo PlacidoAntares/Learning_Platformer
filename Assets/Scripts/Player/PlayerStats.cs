@@ -9,7 +9,6 @@ public class PlayerStats : MonoBehaviour {
 	public int P_Armor;
 	public GameObject ExplosionSFX;
 	public GameObject PlayerUnit;
-	public PowerUp P_UP;
 	public HealthBar HP_Bar;
 	// Use this for initialization
 	void Start () {
